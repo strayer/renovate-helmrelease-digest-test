@@ -20,5 +20,5 @@ spec:
   values:
     image:
       repository: ghcr.io/strayer/renovate-test
-      tag: 1.0@sha256:4ceca80e912f5fd88749d9984597fbe81d436049745b07b54cd2b112ea3a4618
+      tag: "1.0"
 
