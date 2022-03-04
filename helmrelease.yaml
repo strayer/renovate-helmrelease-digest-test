@@ -20,5 +20,5 @@ spec:
   values:
     image:
       repository: strayer/renovate-test
-      tag: latest@sha256:9233f6f2237d79659a9521f7e390df217cec49f1a8aa3a12147bbca1956acdb9
+      tag: latest@sha256:e7d88de73db3d3fd9b2d63aa7f447a10fd0220b7cbf39803c803f2af9ba256b3
 
