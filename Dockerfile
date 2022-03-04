@@ -1,1 +1,1 @@
-FROM ghcr.io/strayer/renovate-test:1.0
+FROM ghcr.io/strayer/renovate-test:1.1
